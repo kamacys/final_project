@@ -13,9 +13,9 @@ The KNN model accuracy will allow me to accurately perdict if a hs will continue
 The automated data retrieval program has also been a success, and I will be using it next year when doing manual look-up. 
 
 Repository contents:
-Resource folder contains .csv files used in programming
-Retrieved Data folder contains the excel spreadsheet of the collected course catalogs retrieved through web-scraping
-automated_catalog_pull file contains the web-scraping program and pulls data from school_url.csv
-NAT_LR file contains the linear regression model and prediciton for 2023 and pulls from nat_yr.csv
-NAT_LR_PREDICT file contains the linear regression model and prediciton for 2024 and pulls from nat.csv
+Resource folder contains .csv files used in programming,
+Retrieved Data folder contains the excel spreadsheet of the collected course catalogs retrieved through web-scraping,
+automated_catalog_pull file contains the web-scraping program and pulls data from school_url.csv,
+NAT_LR file contains the linear regression model and prediciton for 2023 and pulls from nat_yr.csv,
+NAT_LR_PREDICT file contains the linear regression model and prediciton for 2024 and pulls from nat.csv,
 NH_KNN file contains the KNN algorithym for predicting cs access in NH high schools and pulls from NH.csv
